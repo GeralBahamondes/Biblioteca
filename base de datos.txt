@@ -1,0 +1,9 @@
+la base de datos lleva como nombre biblioteca
+
+XAMPP mariadb 10.4.36
+
+actualmente esta funcionando:
+
+-login
+-register
+-index
