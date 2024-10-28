@@ -2,8 +2,18 @@ la base de datos lleva como nombre biblioteca
 
 XAMPP mariadb 10.4.36
 
+pips a instalar
+
+pip install django==3.2
+pip install pillow
+pip install pymysql
+
 actualmente esta funcionando:
 
 -login
 -register
--index
+-agregar libro
+-listado de libros
+-prestamos
+
+aun no estan estilizados, paciencia plis
