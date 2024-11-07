@@ -16,4 +16,9 @@ actualmente esta funcionando:
 -listado de libros
 -prestamos
 
-aun no estan estilizados, paciencia plis
+ya esta estilizado
+
+falta:
+-funcionalidad de admin
+-funcionalidad de bibliotecario
+-editar informacion personal de usuario
