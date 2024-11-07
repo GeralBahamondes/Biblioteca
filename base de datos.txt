@@ -1,4 +1,4 @@
-la base de datos lleva como nombre biblioteca
+la base de datos lleva como nombre biblioteca_db
 
 XAMPP mariadb 10.4.36
 
